@@ -7,7 +7,7 @@ O principal motivo desse material é voltado para uma investigação profunda da
 
 Com isso, surge esse estudo, no intuito de conseguir manter a ideia do filósofo de uma maneira mais acessível.
 
---------------------------------------------------- CURADORIA DE FONTES------------------------------
+--------------------------------------------------- CURADORIA DE FONTES----------------------------------------------------
 
 Para a contextualização desse estudo, foram utilizadas fontes desde livros, palestras, artigos e documentos, somando mais de 25 fontes. Dado isso, estão listadas as mais relevantes:
 
