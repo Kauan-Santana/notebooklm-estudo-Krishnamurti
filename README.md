@@ -1,13 +1,13 @@
 # notebooklm-estudo-Krishnamurti
 Neste mini guia, você pode achar respostas para o que precisa a partir da visão do filósofo e escritor Jiddu Krishnamurti. Sua teoria defende que "A verdade é uma terra sem caminhos", rejeitando dogmas, religiões organizadas e líderes espirituais em favor do autoconhecimento profundo e da liberdade mental
 
---------------------------------------------------- CONTEXTO E OBJETIVOS-----------------------------------------------------------------------------
+--------------------------------------------------- CONTEXTO E OBJETIVOS--------------------------------------------------------
 
 O principal motivo desse material é voltado para uma investigação profunda da condição humana. Muitas das vezes nos encontramos perdidos nas própias características pessoais, isso desde medos e ansiedades à ambição e a inveja. Essas condições formam a "prisão" em que vivemos, portanto, Krishnamurti a partir de sua sabedoria tem um objetivo de investigar se a mente humana pode ser total e incondicionalmente livre desse fardo acumulado pelo tempo e pelo pensamento, ele sustenta que, psicologicamente, você não é um indivíduo isolado, mas sim o restante de toda a espécie humana, pois todos compartilhamos as mesmas lutas internas.
 
 Com isso, surge esse estudo, no intuito de conseguir manter a ideia do filósofo de uma maneira mais acessível.
 
---------------------------------------------------- CURADORIA DE FONTES------------------------------------------------------------------------------
+--------------------------------------------------- CURADORIA DE FONTES---------------------------------------------------------
 
 Para a contextualização desse estudo, foram utilizadas fontes desde livros, palestras, artigos e documentos, somando mais de 25 fontes. Dado isso, estão listadas as mais relevantes:
 
@@ -23,5 +23,5 @@ Para a contextualização desse estudo, foram utilizadas fontes desde livros, pa
 
 Essas fontes, juntas, fornecem tanto a base teórica ("o que é") quanto a abordagem prática ("como investigar") necessária para compreender a revolução psicológica proposta por ele
 
--------------------------------------------------- DICAS DE PROMPTS---------------------------------------------------------------------------------
+-------------------------------------------------- DICAS DE PROMPTS--------------------------------------------------------------
 
