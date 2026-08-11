@@ -1,13 +1,13 @@
 # notebooklm-estudo-Krishnamurti
 Neste mini guia, você pode achar respostas para o que precisa a partir da visão do filósofo e escritor Jiddu Krishnamurti. Sua teoria defende que "A verdade é uma terra sem caminhos", rejeitando dogmas, religiões organizadas e líderes espirituais em favor do autoconhecimento profundo e da liberdade mental.
 
---------------------------------------------------- CONTEXTO E OBJETIVOS---------------------------------------
+--------------------------------------------------- CONTEXTO E OBJETIVOS ---------------------------------------
 
 O principal motivo desse material é voltado para uma investigação profunda da condição humana. Muitas das vezes nos encontramos perdidos nas própias características pessoais, isso desde medos e ansiedades à ambição e a inveja. Essas condições formam a "prisão" em que vivemos, portanto, Krishnamurti a partir de sua sabedoria tem um objetivo de investigar se a mente humana pode ser total e incondicionalmente livre desse fardo acumulado pelo tempo e pelo pensamento, ele sustenta que, psicologicamente, você não é um indivíduo isolado, mas sim o restante de toda a espécie humana, pois todos compartilhamos as mesmas lutas internas.
 
 Com isso, surge esse estudo, no intuito de conseguir manter a ideia do filósofo de uma maneira mais acessível.
 
---------------------------------------------------- CURADORIA DE FONTES----------------------------------------
+--------------------------------------------------- CURADORIA DE FONTES ----------------------------------------
 
 Para a contextualização desse estudo, foram utilizadas fontes desde livros, palestras, artigos e documentos, somando mais de 25 fontes. Dado isso, estão listadas as mais relevantes:
 
@@ -23,18 +23,36 @@ Para a contextualização desse estudo, foram utilizadas fontes desde livros, pa
 
 Essas fontes, juntas, fornecem tanto a base teórica ("o que é") quanto a abordagem prática ("como investigar") necessária para compreender a revolução psicológica proposta por ele.
 
--------------------------------------------------- DICAS DE PROMPTS---------------------------------------------
+-------------------------------------------------- DICAS DE PROMPTS ---------------------------------------------
 
-Como no começo deste material foi abordado sobre a missão de Krishnamurti de investigar a respeito da liberdade cognitíva humana em relação às suas próprias características desfavoraveis, pensei em um prompt o qual consiga deixar claro como realmente conseguir se libertar de seus próprios pesos. Portanto a entrada desenvolvida foi:
+Como no começo deste material foi abordado sobre a missão de Krishnamurti de investigar a respeito da liberdade cognitíva humana em relação às suas próprias características desfavoraveis, pensei em um prompt o qual consiga deixar claro como realmente conseguir se libertar de seus próprios pesos. Dado que seria de suma importancia para alguém. Portanto a entrada desenvolvida foi:
 
 "Eu gostaria de saber como eu posso começar minha jornada, para um dia eu conseguir ser livre das minhas própias características pessoais".
 
 A resposta por parte da inteligência artificial foi primeiro demonstrar qual obra mais está envolvida em relação a esse tema, a qual foi o "livro de si mesmo". 
- - Interessante ela contextualizar de onde a informação está realmente sendo tirada, demonstrando uma confiança e autoridade sobre o assunto, devido as fontes pré-estabelecidas.
+ - Interessante ela contextualizar de onde a informação tem sido realmente tirada, demonstrando uma confiança e autoridade sobre o assunto, devido as fontes pré-estabelecidas.
 
 Logo em seguida, a nossa mente criada por trás do filósofo, divide em 5 etapas o método de como conseguir ser "liberto". De forma sucinta ela define que para realmente ser uma pessoa sem conturbações, são necessários: descobrir quem realmente nós somos, esquecendo tudo o que nos disseram sobre nós mesmos e começar como se não soubessemos de nada. Depois, uitilizar qualquer relacionamento como um espelho, porque é na forma como você reage ao seu marido, esposa, amigo ou colega, que suas características pessoais, preconceitos e imagens internas se tornam visíveis. A próxima etapa seria a arte da observação sem julgamento, a qual diz que o ponto de partida prático é observar suas reações sem nenhum julgamento, justificativa e comparação. Pois No momento em que você tenta "corrigir" uma característica, você cria um conflito entre "o que é" e "o que deveria ser", o que apenas fortalece o ego e a desordem. A penúltima etapa, mostrou como dividir o observador do observado muda a perspectiva da situação após tal característica ser demonstrada, perceber que você não é diferente de suas características. E por fim, ela concluiu que não existe um "como" para sermos salvos de nossas próprias "prisões", não existe um método, e sim desde a primeira etapa sendo feita já estamos sendo libertos.
 - Acho pertinente destacar a forma como foi respondida a minha pergunta, dado que não utilizei nenhum prompt especificando a saída, a qual foi de uma maneira organizada e dividida por etapas, facilitando a interpretação do método. Além  disso, ressalto a fidelidade em respeito as fontes utilizadas, devido que no último passo foi feito uma correção ao meu próprio prompt seguindo o que a filosofía de Krishnamurti defende, dizendo que não se deve buscar pelo "como".
 
-Como o filósofo defende que a verdade não pode ser organizada ou abordada por nenhum caminho predeterminado, contrariando a maioria das religiões, pensei em uma pergunta que faça com que a inteligência artificial responda uma dúvida, se é possível seguir uma religião e os conceitos do filósofo paralelamente.
+Como o filósofo defende que a verdade não pode ser organizada ou abordada por nenhum caminho predeterminado, contrariando a maioria das religiões, pensei em uma pergunta que faça com que a inteligência artificial responda uma dúvida, se é possível seguir uma religião e os conceitos do filósofo paralelamente, já que é muito comum encontrar uma pessoa religiosa. O prompt foi:
 
 "Dado que Krishnamurti rejeita as religões que impõe uma verdade absoluta, não é possível seguir uma religião e ao mesmo tempo aderir o estilo de vida compartilhado pelo filósofo? Justifique."
+
+De acordo com a mente artificial do filósofo :
+A filosofia de Jiddu Krishnamurti, não possibilita seguir uma religião organizada e, simultaneamente, aderir integralmente ao estilo de vida e investigação por ele propostos. Para o filósofo, a adesão a qualquer sistema de crença estabelecido constitui uma barreira fundamental para a descoberta da verdade e para a liberdade individual.
+
+- Como justificativa, ela começou a citar algumas fontes que comprova o que foi escrito por ela criando tópicos de um a cinco, entretanto, não era o que eu esperava. Gostaria que a inteligência explicasse o motivo por meio de texto corrido, pois dividindo a explicação em partes se assemelha mais a uma defesa de tese do que um, porque. Portanto, decidi modificar o prompt:
+
+"Dado que Krishnamurti rejeita as religões que impõe uma verdade absoluta, não é possível seguir uma religião e ao mesmo tempo aderir o estilo de vida compartilhado pelo filósofo? Justifique por meio de um texto corrido explicando o porque da resposta"
+
+- Dessa vez a saída ficou como a esperada, de uma forma mais clara por ser em formato de texto e não em tópicos, consequentemente mais fácil para a interpretação. Ela continuou a usar algumas obras, entretanto, não como justificativa e sim como uma comprovação dos fatos. Diferentemente de um método, o qual dividir por etapas seria algo pertinente, para um explicação, deixar de uma forma mais confortável para leitura melhor será a compreensão.
+
+  ------------------------------------------------ MINI GUIA DE ESTUDOS ----------------------------------------
+
+
+
+
+  
+  
+
