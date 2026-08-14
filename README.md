@@ -50,6 +50,85 @@ A filosofia de Jiddu Krishnamurti, não possibilita seguir uma religião organiz
 
   ------------------------------------------------ MINI GUIA DE ESTUDOS ----------------------------------------
 
+  - RESUMO SOBRE O ASSUNTO----------------------------------------------------------------------------
+    Como a filosofia é composta por diferentes temas, foi realizado um resumo dividido por partes.
+
+    1. A Rejeição da Autoridade e a Verdade como "Terra sem Caminho"
+Krishnamurti afirma que a verdade é ilimitada e incondicional, impossível de ser organizada por religiões, seitas ou métodos. Seguir um guia, guru ou sistema é tornar-se um ser humano de "segunda mão", agindo por imitação e medo, o que impede a liberdade necessária para a descoberta real. A jornada exige que você seja uma "luz para si mesmo", assumindo total responsabilidade por sua consciência.
+
+
+    2. A Consciência Comum e a Ilusão do Indivíduo
+Um dos pontos centrais é que "você é o mundo". Psicologicamente, não somos indivíduos separados; nossa consciência é formada por milênios de condicionamento humano — medo, nacionalismo, crença e sofrimento — que é compartilhado por todos, seja no Oriente ou no Ocidente. Portanto, uma mudança radical no indivíduo afeta a consciência total da humanidade.
+
+
+    3. O Pensamento como Movimento do Tempo e Raiz do Medo
+O pensamento é definido como a resposta da memória, um processo puramente material baseado no passado. Por ser sempre o passado tentando atuar no presente ou se projetar no futuro, o pensamento é intrinsecamente limitado e divisivo.
+
+    Tempo Psicológico: É o intervalo entre "o que é" e "o que deveria ser".
+    Medo: O medo surge desse movimento do pensamento no tempo, lembrando dores passadas e projetando inseguranças futuras.
+
+
+    4. A Divisão entre Observador e Observado
+Krishnamurti aponta que a raiz de todo o conflito é a falsa divisão que o pensamento cria entre o "eu" (o observador) e a sensação ou fato (o observado). Quando você diz "eu estou com raiva", cria uma separação que gera esforço para controlar ou suprimir o sentimento. A percepção transformadora ocorre ao perceber que o observador é o observado: você não "tem" raiva, você é a raiva. Nessa percepção sem divisão, o conflito cessa e o fato se dissolve.
+
+
+    5. O Relacionamento como Espelho
+A investigação não deve ser feita isoladamente, mas no espelho do relacionamento diário. É no contato com o outro que nossas imagens internas, preconceitos e dependências se tornam visíveis. O amor real só pode florescer quando as imagens que construímos uns dos outros (memórias de prazer ou mágoa) desaparecem.
+
+
+    6. A Meditação como Silêncio e Ordem
+A verdadeira meditação não é uma prática de 20 minutos ou a repetição de mantras, o que apenas torna o cérebro mecânico. Ela começa com o estabelecimento de ordem e virtude na vida cotidiana, livre de medo e ambição. É um estado de atenção total (escolha sem escolha), onde o pensamento para de tagarelar e o cérebro fica absolutamente silencioso. Somente nesse silêncio absoluto, que não é cultivado, é que a mente pode encontrar o que é sagrado, eterno e inominável
+
+
+
+- GLOSSÁRIO DOS PRINCIPAIS CONCEITOS--------------------------------------------------------------
+
+  - Atenção Total (ou Escolha sem Escolha): É um estado de observação pura e vigilante, sem qualquer interferência de julgamento, condenação, justificativa ou comparação. Trata-se de uma percepção holística em que o cérebro está totalmente desperto, não permitindo que um único pensamento ou sentimento escape sem ser observado.
+
+
+- A Verdade é uma Terra sem Caminho: É a premissa central de Krishnamurti, afirmando que a verdade é ilimitada e incondicional, não podendo ser alcançada por meio de nenhuma organização, religião, dogma, rito ou técnica psicológica. O indivíduo deve fazer o esforço de ascender a ela por si mesmo, sem intermediários.
+
+
+- Autoconhecimento (Ler o "Livro de Si Mesmo"): Krishnamurti utiliza a metáfora de que toda a história da humanidade está escrita em cada indivíduo. O autoconhecimento não é um processo de acumular informações sobre si, mas sim a observação constante e imediata das reações da mente no espelho do relacionamento.
+
+
+- Condicionamento: Refere-se à maneira como o cérebro humano foi programado por milênios de tradição, cultura, nacionalismo, religião e propaganda. Esse fardo do passado limita a percepção e faz com que o indivíduo aja como uma máquina repetitiva, impedindo-o de ver a realidade de forma nova.
+
+
+- Consciência e seu Conteúdo: Krishnamurti afirma que a consciência é o seu conteúdo; sem o conteúdo (crenças, medos, ambições, mágoas), a consciência como a conhecemos não existe. Além disso, sustenta que a consciência é comum a toda a humanidade, pois todos os seres humanos compartilham os mesmos sofrimentos e lutas internas.
+
+
+- Inteligência: Não é o acúmulo de conhecimento ou erudição, mas sim a capacidade de perceber o essencial, o "que é", e distinguir o que é verdadeiro do que é falso. Ela surge naturalmente quando a mente está em harmonia e livre do conflito da comparação.
+
+
+- Meditação: Não é um sistema, prática ou repetição mecânica de palavras, o que apenas tornaria o cérebro mais embotado. É o processo de estabelecer ordem na vida diária e alcançar um estado de silêncio absoluto no cérebro, onde o "eu" e o tempo psicológico cessam.
+
+
+- Medo: É o movimento do pensamento no tempo. O medo psicológico nasce quando o pensamento recorda dores do passado e projeta a possibilidade de sua repetição no futuro.
+
+
+- Negação: É o processo de compreender o que algo é ao ver claramente o que ele não é. Por exemplo, ao negar o ódio, o ciúme e a ambição (o que o amor não é), o amor e a compaixão florescem naturalmente.
+
+
+- O Observador é o Observado: Este conceito aponta que a divisão entre o "eu" (o observador) e a sensação ou fato (o observado, como a raiva ou a inveja) é uma ilusão criada pelo pensamento. Quando se percebe que "você é a sua raiva", o conflito da tentativa de controle desaparece e o fato se dissolve na luz da atenção.
+  
+
+- Pensamento: Definido como a resposta material da memória, que por sua vez é o acúmulo de experiências e conhecimentos passados. Por ser sempre fundamentado no passado, o pensamento é intrinsecamente limitado e divisivo.
+
+
+- Relacionamento como Espelho: A investigação de si mesmo ocorre na interação diária com pessoas, ideias e propriedades, onde as imagens internas e preconceitos se tornam visíveis. Sem o entendimento correto das relações, a vida é marcada pelo conflito e pela desordem.
+
+
+- Ser uma "Luz para Si Mesmo": Significa rejeitar toda autoridade espiritual externa, gurus, sacerdotes e livros sagrados, assumindo total responsabilidade por sua própria investigação e transformação. Implica em não ser um ser humano de "segunda mão", agindo por imitação.
+
+
+- Tempo Psicológico: É o intervalo criado pelo pensamento entre "o que é" (a realidade presente) e "o que deveria ser" (o ideal futuro). É a busca por tornar-se algo diferente do fato presente, o que gera o medo e o conflito
+  
+
+  - PROMPTS QUE PODEM SER UTILIZADOS-----------------------------------------------------------
+------------------------------------------------------- CONCLUSÃO ---------------------------------------------------
+  Analisando o contexto de que a maioria das fontes foram retiradas em outra língua, o estudo sobre tal se demonstrou pertinente, já que trazendo para o português fica facilitado a interpretação diante de analogias, metáforas e expressões, as quais seriam mais complicadas de entender apenas na língua nativa. Devido a grande quantidade de fontes existentes sobre Krishnamurti ficou fácil realizar a segunda mente por trás de seus ensinamentos, possibilitando um banco de dados vasto.
+
 
 
 
