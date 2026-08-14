@@ -51,6 +51,8 @@ A filosofia de Jiddu Krishnamurti, não possibilita seguir uma religião organiz
   ------------------------------------------------ MINI GUIA DE ESTUDOS ----------------------------------------
 
   - RESUMO SOBRE O ASSUNTO----------------------------------------------------------------------------
+
+
     Como a filosofia é composta por diferentes temas, foi realizado um resumo dividido por partes.
 
     1. A Rejeição da Autoridade e a Verdade como "Terra sem Caminho"
