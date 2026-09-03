@@ -148,6 +148,7 @@ A verdadeira meditação não é uma prática de 20 minutos ou a repetição de 
 
 
 ------------------------------------------------------- CONCLUSÃO ---------------------------------------------------
+  
   Analisando o contexto de que a maioria das fontes foram retiradas em outra língua, o estudo sobre tal se demonstrou pertinente, já que trazendo para o português fica facilitado a interpretação diante de analogias, metáforas e expressões, as quais seriam mais complicadas de entender apenas na língua nativa. Devido a grande quantidade de fontes existentes sobre Krishnamurti ficou fácil realizar a segunda mente por trás de seus ensinamentos, possibilitando um banco de dados vasto. Caso sua busca seja compreender realmente sua mente, recomendo esse estudo.
 
 
