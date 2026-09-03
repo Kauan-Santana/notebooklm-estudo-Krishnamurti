@@ -128,8 +128,27 @@ A verdadeira meditação não é uma prática de 20 minutos ou a repetição de 
   
 
   - PROMPTS QUE PODEM SER UTILIZADOS-----------------------------------------------------------
+
+    Para investigar de forma profunda e prática os ensinamentos de Jiddu Krishnamurti, os prompts devem ser formulados não apenas para obter explicações intelectuais, mas para servir como um espelho para a sua própria mente. A filosofia dele nos convida a questionar nossos condicionamentos, reações e a própria estrutura do nosso pensamento.
+
+    1- Krishnamurti afirma que o medo é o movimento do pensamento no tempo. Como posso observar a formação de uma preocupação ou medo psicológico sobre o amanhã sem tentar fugir dele ou controlá-lo?
+
+    2- Se o medo psicológico nasce da lembrança de dores passadas projetadas no futuro, como posso olhar para um fato presente sem a interferência do conhecimento de ontem?
+
+    3- Quando sinto raiva, ciúme ou inveja, o pensamento imediatamente se divide entre 'eu' (o observador) e 'o sentimento' (o observado). Como posso perceber que eu sou esse sentimento, e como essa percepção sem divisão dissolve o conflito?
+
+    4- Se o relacionamento é o único espelho factual onde posso ver minhas reações em tempo real, que perguntas devo me fazer ao perceber que estou agindo com apego ou possessividade?
+
+    5- De que forma as religiões organizadas e as crenças dogmáticas dividem os homens e impedem a descoberta da verdade factual e do amor real?
+
+    6- Se a meditação não é uma prática de 20 minutos com hora marcada, como posso viver em um estado constante de atenção plena e sensibilidade em meio ao caos da vida cotidiana?
+
+    7- O que Krishnamurti define como o silêncio cérebro-mental que não é cultivado pelo pensamento? Como desse silêncio pode surgir algo verdadeiramente sagrado?
+
+
+
 ------------------------------------------------------- CONCLUSÃO ---------------------------------------------------
-  Analisando o contexto de que a maioria das fontes foram retiradas em outra língua, o estudo sobre tal se demonstrou pertinente, já que trazendo para o português fica facilitado a interpretação diante de analogias, metáforas e expressões, as quais seriam mais complicadas de entender apenas na língua nativa. Devido a grande quantidade de fontes existentes sobre Krishnamurti ficou fácil realizar a segunda mente por trás de seus ensinamentos, possibilitando um banco de dados vasto.
+  Analisando o contexto de que a maioria das fontes foram retiradas em outra língua, o estudo sobre tal se demonstrou pertinente, já que trazendo para o português fica facilitado a interpretação diante de analogias, metáforas e expressões, as quais seriam mais complicadas de entender apenas na língua nativa. Devido a grande quantidade de fontes existentes sobre Krishnamurti ficou fácil realizar a segunda mente por trás de seus ensinamentos, possibilitando um banco de dados vasto. Caso sua busca seja compreender realmente sua mente, recomendo esse estudo.
 
 
 
